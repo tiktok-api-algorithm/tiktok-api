@@ -3,7 +3,7 @@
 
 出售 / 出租 Tiktok 各种算法, 解决方案
 
-* xa xg xl xk 签名
+* xa xg xl xk 签名  (x-gorgon, x-khronos, x-ladon, x-argus)
 * 设备信息 加解密
 * Mssdk 加解密
 * applog 加密解密
